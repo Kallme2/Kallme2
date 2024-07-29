@@ -4,7 +4,7 @@ r<h1>Hi, I'm Trisian!
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Data Structures and SIEM Practice </b>
-  - [Active directory hoime lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Splunk fundamentals and sample](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
