@@ -1,5 +1,5 @@
 r<h1>Hi, I'm Trisian!
-<a href="www.linkedin.com/in/tristian-stevenson-cyberSEC">Cybersecurity Professional</a>,
+<a href="www.linkedin.com/in/tristian-stevenson-cyberSEC">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -32,7 +32,7 @@ r<h1>Hi, I'm Trisian!
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kallme2/Kallme2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
