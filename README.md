@@ -1,4 +1,4 @@
-r<h1>Hi, I'm Trisian!
+<h1>Hi, I'm Trisian!
 <a href="www.linkedin.com/in/tristian-stevenson-cyberSEC">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
